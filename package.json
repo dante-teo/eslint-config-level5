@@ -1,0 +1,14 @@
+{
+  "name": "eslint-config-level5",
+  "version": "1.0.0",
+  "description": "The code style standard for my personal usage.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dante Teo",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^5.9.0"
+  }
+}

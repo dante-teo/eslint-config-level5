@@ -1,0 +1,20 @@
+module.exports = {
+	"env": {
+		"browser": true,
+		"commonjs": true,
+		"es6": true,
+		"node": true,
+		"mocha": true
+	},
+	"extends": "eslint:recommended",
+	"parserOptions": {
+		"ecmaVersion": 2018
+	},
+	"rules": {
+		"indent": [ "error", "tab" ],
+		"linebreak-style": [ "error", "unix" ],
+		"quotes": [ "error", "single" ],
+		"semi": [ "error", "never" ],
+		"brace-style": [ "error", "1tbs" ]
+	}
+}
