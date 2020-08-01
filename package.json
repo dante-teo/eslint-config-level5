@@ -9,6 +9,6 @@
   "author": "Dante Teo",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^6.5.1"
+    "eslint": "^7.6.0"
   }
 }
